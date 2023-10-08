@@ -27,7 +27,7 @@ Routes incoming requests to the appropriate server, ensuring seamless communicat
 ![צילום מסך 2023-10-09 000138](https://github.com/DanielBzz/diets_and_meals_api/assets/90978006/9e2d9db5-1967-4fc8-9a1a-21a1af7cea2c)
 
 
-## Key features
+## Key Features
 
 **Microservices Architecture:** Each service operates independently, promoting modularity and scalability.
 
@@ -35,6 +35,14 @@ Routes incoming requests to the appropriate server, ensuring seamless communicat
 
 **HTTP Requests and Reverse Proxy:** Demonstrates effective communication between microservices via HTTP requests. NGINX serves as a reverse proxy to direct requests to the correct service.
 
+## How To Use
+
+- install docker - https://docs.docker.com/desktop/?_gl=1*rxkbvp*_ga*MTQ3MjU2MzUyMS4xNjk2Nzk3MDIz*_ga_XJWPQMJYHQ*MTY5NjgwMTM0OC4yLjEuMTY5NjgwMTM1My41NS4wLjA.
+- clone this repository.
+- run on command line the next command: docker-compose up -d
+
+- API Endpoints:
+    Will update soon..
 
 ## License
 This project is licensed under the MIT License.
