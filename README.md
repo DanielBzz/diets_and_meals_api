@@ -1,6 +1,7 @@
 # diets_and_meals_api
 
 The Diets and Meals API application is a microservices-based system designed to efficiently manage meals, dishes, and diets data. It is composed of four independent services, each serving a specific purpose.
+Developed with Python and Django framework.
 
 ## About
 
