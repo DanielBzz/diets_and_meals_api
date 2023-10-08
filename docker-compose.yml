@@ -48,7 +48,7 @@ services:
     ports:
           - "3306:3306"
     healthcheck:
-      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-pdani"]
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-papi"]
       interval: 10s
       timeout: 5s
       retries: 3
