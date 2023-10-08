@@ -85,9 +85,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'api',         # Same as the MYSQL_DATABASE environment variable in the Docker Compose file
-        'USER': 'daniel1',             # Same as the MYSQL_USER environment variable in the Docker Compose file
-        'PASSWORD': 'daniel1',     # Same as the MYSQL_PASSWORD environment variable in the Docker Compose file
-        'HOST': 'db',                 # The hostname of the MySQL container as defined in the Docker Compose file
+        'USER': 'api',             # Same as the MYSQL_USER environment variable in the Docker Compose file
+        'PASSWORD': 'api',     # Same as the MYSQL_PASSWORD environment variable in the Docker Compose file
+        'HOST': 'api',                 # The hostname of the MySQL container as defined in the Docker Compose file
         'PORT': '3306',               # The default MySQL port
     }
 }
