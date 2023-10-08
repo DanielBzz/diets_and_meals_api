@@ -24,8 +24,8 @@ Implements with MySQL to persistently store all application data.
 Routes incoming requests to the appropriate server, ensuring seamless communication between services.
 
 ## Architecture
+![צילום מסך 2023-10-09 000138](https://github.com/DanielBzz/diets_and_meals_api/assets/90978006/9e2d9db5-1967-4fc8-9a1a-21a1af7cea2c)
 
-![צילום מסך 2023-10-09 000138](https://github.com/DanielBzz/diets_and_meals_api/assets/90978006/5a674cc8-7fe0-46fb-833b-3de82187b975)
 
 ## Key features
 
